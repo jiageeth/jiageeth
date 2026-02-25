@@ -14,10 +14,10 @@
   <br/> <br/>
 
  <!-- GitHub Stats -->
-![Jiageeth's Stats](https://github-readme-stats.vercel.app/api?username=jiageeth&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jiageeth&show_icons=true&theme=radical)
 
 <!-- Top Languages -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiageeth&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jiageeth&layout=compact&theme=radical)
 </div>
 ### Lets Connect. ❤️
 
